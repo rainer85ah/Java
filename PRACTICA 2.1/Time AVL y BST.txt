@@ -1,0 +1,17 @@
+
+BinarySearchTree Times: 
+Insertions Time 1000: 47
+Search Time 1000: 0
+Insertions Time 10 000: 1422
+Search Time 10 000: 0
+Insertions Time 100 000: 229937
+Search Time 100 000: 0
+
+---------------------------------
+AVL-Tree Times: 
+Insertions Time 1000: 78
+Search Time 1000: 0
+Insertions Time 10 000: 109
+Search Time 10 000: 0
+Insertions Time 100 000: 234
+Search Time 100 000: 0
