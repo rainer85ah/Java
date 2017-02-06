@@ -1,0 +1,4 @@
+practica2.HashTableMap$HashEntry
+practica2.HashTableMap
+practica2.HashTableMap$HashEntryIndex
+practica2.HashTableMap$OperationType
